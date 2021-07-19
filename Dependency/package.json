@@ -1,0 +1,7 @@
+{
+  "name": "dependency_bug",
+  "version": "1.0.0",
+  "description": "It will be resolved relative",
+  "main": "index.js",
+  "license": "MIT"
+}
